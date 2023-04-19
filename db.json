@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "LE THI NHAT",
+      "price": "123",
+      "thuonghieu": "213",
+      "description": "1212",
+      "xuatxu": "Việt Nam",
+      "id": 2
+    },
+    {
+      "name": "LE THI NHAT",
+      "price": "123",
+      "thuonghieu": "213",
+      "description": "1212",
+      "xuatxu": "Trung Quốc",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "lemle2580@gmail.com",
+      "password": "$2a$10$/wGk4RkA1EBm2pM5.XNmF.0IEv3sAyyJMAmetdHze0o0EEqn6GqQe",
+      "name": "LE THI NHAT",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ]
+}
